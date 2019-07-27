@@ -1,3 +1,3 @@
 # Python
 
-#samples of work using Python
+samples of projects using Python
